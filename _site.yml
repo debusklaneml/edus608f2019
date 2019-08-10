@@ -3,11 +3,11 @@ output_dir: "."
 navbar:
   title: "EDUS 608 Fall 2019 - Educational Statistics"
   left:
-    - text: "CFA-Calibration Enumeration" 
+    - text: "Syllabus" 
       href: CFA-Calibrate.html
-    - text: "ESEM-Calibration Enumeration"
+    - text: "Schedule"
       href: ESEM-Calibrate.html
-    - text: "bESEM"
+    - text: "Presentations"
       href:  
       menu:
         - text: "bESEM Calibration Enumeration"

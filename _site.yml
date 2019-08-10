@@ -4,7 +4,7 @@ navbar:
   title: "EDUS 608 Fall 2019 - Educational Statistics"
   left:
     - text: "Syllabus" 
-      href: EDUS_608_FS2019_S901.pdf
+      href: Syllabus/EDUS_608_FS2019_S901.pdf
     - text: "Schedule"
       href: ESEM-Calibrate.html
     - text: "Presentations"

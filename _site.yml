@@ -1,7 +1,7 @@
 mname: "M. L. DeBusk-Lane"
 output_dir: "."
 navbar:
-  title: "Dr. Morgan L. DeBusk-Lane"
+  title: "EDUS 608 Fall 2019 - Educational Statistics"
   left:
     - text: "CFA-Calibration Enumeration" 
       href: CFA-Calibrate.html

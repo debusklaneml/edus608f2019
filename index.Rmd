@@ -4,7 +4,7 @@ title: EDUS 608 Ed Statistics
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-This site will contain all information and files for EDUS 608 (Advanced Educational Statistics) for the Fall 2019 semester at VCU. 
+This site will contain all information and files for EDUS 608 (Educational Statistics) for the Fall 2019 semester at VCU. 
 
 Please visit [this](https://github.com/debusklaneml/edus608f2019) repository to download files. 
 

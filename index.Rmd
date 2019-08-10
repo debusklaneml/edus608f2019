@@ -1,5 +1,5 @@
 ---
-title: test
+title: EDUS 608 Ed Statistics
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">

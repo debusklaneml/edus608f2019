@@ -1,0 +1,33 @@
+mname: "M. L. DeBusk-Lane"
+output_dir: "."
+navbar:
+  title: "M. L. DeBusk-Lane"
+  left:
+    - text: "CFA-Calibration Enumeration" 
+      href: CFA-Calibrate.html
+    - text: "ESEM-Calibration Enumeration"
+      href: ESEM-Calibrate.html
+    - text: "bESEM"
+      href:  
+      menu:
+        - text: "bESEM Calibration Enumeration"
+          href: bESEM.alt-Calibrate.html
+        - text: "bESEM Validation Enumeration"
+          href: bESEM.alt-Validate.html          
+        - text: "bESEM Final LPA"
+          href: bESEM.alt.final.html
+
+
+
+
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/mldebusklane
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/mldebusklane
+output:
+  html_document:
+    theme: paper
+    include:
+      after_body: footer.html
+    css: 'styles.css'

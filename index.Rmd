@@ -1,0 +1,12 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+This site is currently arranged to display results associated with my dissertation. 
+
+The name of this project is: **"Variable- and Person-Centered Approaches to Examining Construct-Relevant Multidimensionality in Writing Self-Efficacy"**
+
+Please visit [this](https://github.com/debusklaneml/hatch) repository for all applicable Mplus and R syntax. 
+
+

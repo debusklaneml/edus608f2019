@@ -6,7 +6,7 @@ navbar:
     - text: "Syllabus" 
       href: Syllabus/EDUS_608_FS2019_S901.pdf
     - text: "Dynamic Schedule"
-      href: "google.com"
+      href: "<a href="http://www.google.com">Google</a>"
     - text: "Presentations"
       href:  
       menu:

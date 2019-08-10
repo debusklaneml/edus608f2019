@@ -1,7 +1,7 @@
 mname: "M. L. DeBusk-Lane"
 output_dir: "."
 navbar:
-  title: "M. L. DeBusk-Lane"
+  title: "Dr. Morgan L. DeBusk-Lane"
   left:
     - text: "CFA-Calibration Enumeration" 
       href: CFA-Calibrate.html

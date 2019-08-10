@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Syllabus" 
       href: Syllabus/EDUS_608_FS2019_S901.pdf
-    - text: "Schedule"
-      href: ESEM-Calibrate.html
+    - text: "Dynamic Schedule"
+      href: "google.com"
     - text: "Presentations"
       href:  
       menu:

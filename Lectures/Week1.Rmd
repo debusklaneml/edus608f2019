@@ -25,14 +25,14 @@ options(htmltools.dir.version = FALSE)
 
 
 - What's the point?
---
+
 ---
 ### Agenda
 
 - Welcome / Introductions
 --
 
-- Syllabus Review
+- Syllabus Review 
 --
 
 - Brainstorming Map

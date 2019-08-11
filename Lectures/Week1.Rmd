@@ -71,9 +71,10 @@ knitr::opts_chunk$set(fig.align="center")
 
 - Share with those around you.
 
+That at this!!
+
 ```{r, out.width= "70%", echo=FALSE}
-library(knitr)
-include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/test.jpg" )
+knitr::include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/test.jpg" )
 ```
 ---
 

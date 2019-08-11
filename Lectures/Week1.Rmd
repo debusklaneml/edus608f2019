@@ -16,6 +16,7 @@ output:
 
 ```{r setup, include=FALSE, eval = TRUE}
 options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.align="center")
 ```
 
 
@@ -70,7 +71,7 @@ options(htmltools.dir.version = FALSE)
 
 - Share with those around you.
 
-```{r, out.width= "70%", fig.align='center', echo=FALSE}
+```{r, out.width= "70%", echo=FALSE}
 library(knitr)
 include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/test.jpg" )
 ```

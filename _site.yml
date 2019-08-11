@@ -18,11 +18,6 @@ navbar:
       menu:
         - text: "Week 1"
           href: Lectures/Week1.html
-        - text: "bESEM Validation Enumeration"
-          href: bESEM.alt-Validate.html          
-        - text: "bESEM Final LPA"
-          href: bESEM.alt.final.html
-
 
 
 

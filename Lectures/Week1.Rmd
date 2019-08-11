@@ -14,10 +14,12 @@ output:
       
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, eval = FALSE}
 options(htmltools.dir.version = FALSE)
-
 ```
+
+
+
 ### Welcome!
 
 - Why this class? 
@@ -71,9 +73,11 @@ options(htmltools.dir.version = FALSE)
 
 # Test
 - here we go
+```{r}
+knitr::include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/test.jpg")
+```
 ---
-# Picture
-<img src="/Pictures/test.jpg" width = "400" height="333">
+
 
 
 

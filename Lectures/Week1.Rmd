@@ -75,7 +75,10 @@ options(htmltools.dir.version = FALSE)
 - here we go
 
 ---
+#Please add picture
+
 ![f](test.png)
+![](/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/test.png)
 <img src="/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/test.png">
 
 

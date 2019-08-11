@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
-    <title>A Crash lesson in R, Integration, and descriptive statistics</title>
+    <title>EDUS 608 - Educational Statistics</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Sebastian Hoyos-Torres" />
+    <meta name="author" content="Dr. Morgan DeBusk-Lane" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -11,8 +11,9 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
-# A Crash lesson in R, Integration, and descriptive statistics
-### Sebastian Hoyos-Torres
+# EDUS 608 - Educational Statistics
+### Dr. Morgan DeBusk-Lane
+### August 26th, 2019
 
 ---
 
@@ -26,9 +27,19 @@ class: center, middle, inverse, title-slide
 
 - What's the point?
 --
+---
+### Agenda
 
+- Welcome / Introductions
+--
 
-- R?
+- Syllabus Review
+--
+
+- Brainstorming Map
+--
+
+- R.....? SPSS.....? 
 ---
 ### An introduction to R
 - Although there are some materials in this class that should be figured out by hand,  everyone should download and use R from the Comprehensive R Archive Network (CRAN) 
@@ -137,7 +148,7 @@ formula_for_average(samples)# use the average
 ```
 
 ```
-## [1] 0.151669
+## [1] -0.06951517
 ```
 ---
 ### Functions continued...
@@ -334,7 +345,7 @@ sample(x,5)
 ```
 
 ```
-## [1] 18 10  9 13 15
+## [1]  5 18  4 11 16
 ```
 
 ---
@@ -350,7 +361,7 @@ x %&gt;% mean() #gets the mean
 ```
 
 ```
-## [1] 51.25165
+## [1] 50.89025
 ```
 
 ```r
@@ -358,7 +369,7 @@ x %&gt;% median() #summarizes the median
 ```
 
 ```
-## [1] 51.5934
+## [1] 51.4723
 ```
 
 ```r
@@ -367,7 +378,7 @@ x %&gt;% summary()#all summary output.
 
 ```
 ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-##   26.95   43.99   51.59   51.25   58.75   73.84
+##   25.66   44.35   51.47   50.89   57.34   71.51
 ```
 ---
 ### Descriptive plots
@@ -380,16 +391,16 @@ stem(x)#stem and leaf plot
 ## 
 ##   The decimal point is 1 digit(s) to the right of the |
 ## 
-##   2 | 789
-##   3 | 1233
-##   3 | 677899
-##   4 | 0012223333444
-##   4 | 5556666777778888889
-##   5 | 000112233344444
-##   5 | 555666677788999999
-##   6 | 001111123334
-##   6 | 55788
-##   7 | 11334
+##   2 | 667
+##   3 | 13
+##   3 | 77789
+##   4 | 0000011223333444
+##   4 | 5556666667778999
+##   5 | 001111111222233444
+##   5 | 55566666667777778888999
+##   6 | 00113344
+##   6 | 5556778
+##   7 | 12
 ```
 ---
 ### Descriptive plots cont

@@ -1,6 +1,7 @@
 ---
-title: "A Crash lesson in R, Integration, and descriptive statistics"
-author: "Sebastian Hoyos-Torres"
+title: "EDUS 608 - Educational Statistics"
+author: "Dr. Morgan DeBusk-Lane"
+date: "August 26th, 2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -25,9 +26,19 @@ options(htmltools.dir.version = FALSE)
 
 - What's the point?
 --
+---
+### Agenda
 
+- Welcome / Introductions
+--
 
-- R?
+- Syllabus Review
+--
+
+- Brainstorming Map
+--
+
+- R.....? SPSS.....? 
 ---
 ### An introduction to R
 - Although there are some materials in this class that should be figured out by hand,  everyone should download and use R from the Comprehensive R Archive Network (CRAN) 

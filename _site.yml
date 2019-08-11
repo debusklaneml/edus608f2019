@@ -7,10 +7,16 @@ navbar:
       href: Syllabus/EDUS_608_FS2019_S901.pdf
     - text: "Dynamic Schedule"
       href: https://docs.google.com/spreadsheets/d/1T7lUn2FK1IvcvEtk0IV70SFp5bLLV-BgxpBrbg7fwBY/edit?usp=sharing 
-    - text: "Presentations"
+    - text: "Textbook"
+      menu: 
+        - text: "Chapter 1"
+          href: https://uk.sagepub.com/sites/default/files/upm-binaries/87881_Field___DSUSS___Chapter_1.pdf
+        - text: "Chapter 2"
+          href: https://uk.sagepub.com/sites/default/files/upm-binaries/87882_Field___DSUSS___Chapter_2.pdf
+    - text: "Lectures"
       href:  
       menu:
-        - text: "bESEM Calibration Enumeration"
+        - text: "Week 1"
           href: bESEM.alt-Calibrate.html
         - text: "bESEM Validation Enumeration"
           href: bESEM.alt-Validate.html          

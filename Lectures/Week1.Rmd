@@ -51,8 +51,11 @@ options(htmltools.dir.version = FALSE)
 # Introductions
 
 - Preferred Name
+
 - Program / Track
+
 - Something interesting about you
+
 - Favorite summer memory
 ---
 

@@ -131,3 +131,4 @@ For categorical variables, two types:
   - Levels of anxiety (high, medium, low)
   - Happiness (high, medium, low) 
 ---
+

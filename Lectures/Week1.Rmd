@@ -73,7 +73,7 @@ options(htmltools.dir.version = FALSE)
 - here we go
 ---
 # Picture
-
+<img src="/Pictures/test.jpg" width = "400" height="333">
 
 
 

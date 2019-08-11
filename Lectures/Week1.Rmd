@@ -73,12 +73,14 @@ options(htmltools.dir.version = FALSE)
 
 # Test
 - here we go
-```{r}
-knitr::include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/test.jpg")
-```
+
 ---
+![f](test.png)
+<img src="/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/test.png">
 
 
-
-
+```{r pressure}
+library(knitr)
+include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/test.png")
+```
 

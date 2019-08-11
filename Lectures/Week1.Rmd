@@ -21,7 +21,7 @@ knitr::opts_chunk$set(fig.align="center")
 
 
 
-### Welcome!
+# Welcome!
 
 - Why this class? 
 --
@@ -81,3 +81,53 @@ include_graphics("/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictur
 
 
 
+
+#Review Topic #1: Measurement 
+- <i> Variable </i> - A characteristic that can vary in value among subjects in a sample or a population.
+## Types of Variables:
+- <i> Categorical </i> (commonly qualitative)
+
+- <i> Continuous </i> (commonly 'quantitative' or interval-ratio)
+
+Different variable types typically align with different statistical tests
+---
+
+#Categorical Variables
+##Examples:
+
+Racial-ethnic groups (e.g. white, black, Hispanic)
+
+Political Parties
+
+Happy or sad
+
+Gender
+
+Major
+---
+#Continuous Variables - Infinite values between min and max
+
+##Examples:
+
+Time
+
+Age
+
+Income (is this really a 'discrete' variable?)
+---
+
+
+#Scales of Measurement 
+For categorical variables, two types:
+- <i> Nominal scale</i> - Unordered categories
+
+  - Race, Gender, Major
+  
+  - yes vs. no
+
+- <i> Ordinal scale </i> - ordered categories
+
+  - Political ideology (very liberal, liberal, moderate, conservative, very conservative)
+  - Levels of anxiety (high, medium, low)
+  - Happiness (high, medium, low) 
+---

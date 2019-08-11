@@ -71,7 +71,8 @@ options(htmltools.dir.version = FALSE)
 
 # Test
 - here we go
-![language](/Users/morganldebusk-lane/Documents/GitHub/edus608f2019/Pictures/statistics-intro-1024x426.jpg)
+---
+# Picture
 
 
 

@@ -24,3 +24,5 @@ diploma <- cohort %>%
   geom_histogram()
 diploma
 
+skimr::skim(cohort)
+Hmisc::describe(cohort)

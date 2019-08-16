@@ -3,7 +3,7 @@ library(tidyverse)
 library(readxl)
 library(janitor)
 library(tidylog)
-
+library(DescTools)
 #VDOE Cohort Data
 cohort <- read_csv("http://www.doe.virginia.gov/statistics_reports/research_data/data_files/on-time-grad_cohort/2018-cohort.csv") %>%
   #clean up the variable names
@@ -26,3 +26,4 @@ diploma
 
 skimr::skim(cohort)
 Hmisc::describe(cohort)
+summarytools::freq(cohort$cohort_cnt)

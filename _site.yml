@@ -17,7 +17,7 @@ navbar:
       href:  
       menu:
         - text: "Week 1"
-          href: Lectures/Week1.html
+          href: 
     - text: "GitHub"
       href: https://github.com/debusklaneml/edus608f2019
       

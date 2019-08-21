@@ -23,7 +23,7 @@ navbar:
 
   right:
     - icon: fa-github fa-lg
-      href: http://github.com/mldebusklane
+      href: https://github.com/debusklaneml
     - icon: fa-twitter fa-lg
       href: https://twitter.com/mldebusklane
 output:

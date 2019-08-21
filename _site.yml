@@ -15,9 +15,6 @@ navbar:
           href: https://uk.sagepub.com/sites/default/files/upm-binaries/87882_Field___DSUSS___Chapter_2.pdf
     - text: "Lectures"
       href:  
-      menu:
-        - text: 
-          href: 
     - text: "GitHub"
       href: https://github.com/debusklaneml/edus608f2019
       

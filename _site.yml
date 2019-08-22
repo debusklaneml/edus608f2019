@@ -4,7 +4,7 @@ navbar:
   title: "EDUS 608 Fall 2019 - Educational Statistics"
   left:
     - text: "Syllabus" 
-      href: Syllabus/EDUS_608_FS2019_S901.pdf
+      href: https://drive.google.com/file/d/1DVcEg7cQT2itNJ_hwp0qiCmbAhVDePqx/view?usp=sharing
     - text: "Dynamic Schedule"
       href: https://docs.google.com/spreadsheets/d/1T7lUn2FK1IvcvEtk0IV70SFp5bLLV-BgxpBrbg7fwBY/edit?usp=sharing 
     - text: "Textbook"

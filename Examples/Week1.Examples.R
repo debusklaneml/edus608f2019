@@ -15,6 +15,8 @@ cohort <- read_csv("http://www.doe.virginia.gov/statistics_reports/research_data
   #keep/filter for only those that do not have subsample indications
   dplyr::filter(full.cohort == 1)
 
+write_csv(cohort, "cohort.csv")
+
 #histogram of dropout and diploma's granted.
 dropout <- cohort %>%
   ggplot(aes(dropout_rate)) + 

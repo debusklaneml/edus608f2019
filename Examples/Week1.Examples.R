@@ -13,8 +13,9 @@ cohort <- read_csv("http://www.doe.virginia.gov/statistics_reports/research_data
   mutate(full.cohort = if_else(
     is.na(gender) & is.na(disability_flag) & is.na(lep_flag) & is.na(disadvantaged_flag) & is.na(federal_race_code) & level_code == "DIV", 1, 0)) %>%
   #keep/filter for only those that do not have subsample indications
-  filter(full.cohort == 1)
+  dplyr::filter(full.cohort == 1)
 
+#histogram of dropout and diploma's granted.
 dropout <- cohort %>%
   ggplot(aes(dropout_rate)) + 
   geom_histogram()

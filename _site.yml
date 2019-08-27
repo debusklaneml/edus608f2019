@@ -13,8 +13,10 @@ navbar:
           href: https://uk.sagepub.com/sites/default/files/upm-binaries/87881_Field___DSUSS___Chapter_1.pdf
         - text: "Chapter 2"
           href: https://uk.sagepub.com/sites/default/files/upm-binaries/87882_Field___DSUSS___Chapter_2.pdf
-   # - text: "Lectures"
-   #   href:  
+    - text: "Lecture Slides"
+      menu:
+        - text: "Week 1"
+        - href: https://docs.google.com/presentation/d/1z9i7bpNd2-szEen0SKFQ-tLme7s8uj7HZcX9T9FroWg/edit?usp=sharing
     - text: "GitHub"
       href: https://github.com/debusklaneml/edus608f2019
       

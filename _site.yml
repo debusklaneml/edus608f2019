@@ -17,6 +17,8 @@ navbar:
       menu:
         - text: "Week 1"
           href: https://docs.google.com/presentation/d/1z9i7bpNd2-szEen0SKFQ-tLme7s8uj7HZcX9T9FroWg/edit?usp=sharing
+        - text: "Week 2" 
+          href: https://docs.google.com/presentation/d/1W4dVM9YKfCN4gp20hLCapSjvDlDTsn5Shp43o1D9Kgo/edit?usp=sharing
     - text: "GitHub"
       href: https://github.com/debusklaneml/edus608f2019
       
